@@ -193,7 +193,7 @@ export default function PriceListPage() {
       </section>
 
       <footer className="relative z-10 w-full py-8 bg-black text-center text-[10px] tracking-widest text-gray-500 uppercase">
-        © 2026 Santai Recovery Spa.
+        © 2023 Santai Recovery Spa.
       </footer>
 
     </main>
